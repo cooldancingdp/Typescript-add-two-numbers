@@ -1,0 +1,7 @@
+function addNumbers(num1: number, num2: number): number {
+    return num1 + num2;
+}
+
+// Example usage
+let result: number = addNumbers(5, 3);
+console.log("The sum is: " + result);
